@@ -225,4 +225,4 @@ Simple DNS Plus is offered as a full free version, providing all features and up
 Take control of your internet speed and DNS management today! Download Simple DNS Plus now!
 
 ---
-**Last updated:** 2026-10-21 23:56:41 UTC
+**Last updated:** 2026-10-22 04:27:30 UTC
